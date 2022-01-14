@@ -1,1 +1,2 @@
-# Reproducible_Research_Project_1
+# coursera-reproducible-research-project1
+Peer-graded Assignment: Course Project 1
